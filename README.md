@@ -56,23 +56,6 @@
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
 </p>
 
-### State Management
-
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### API Development
-
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ### Tools & Productivity
 
 <p>
